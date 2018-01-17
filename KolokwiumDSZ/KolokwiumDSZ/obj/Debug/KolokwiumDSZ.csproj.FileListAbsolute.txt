@@ -1,0 +1,5 @@
+C:\Users\local\Desktop\DSZ\12-13-2017\KolokwiumDSZ\KolokwiumDSZ\bin\Debug\KolokwiumDSZ.exe.config
+C:\Users\local\Desktop\DSZ\12-13-2017\KolokwiumDSZ\KolokwiumDSZ\bin\Debug\KolokwiumDSZ.exe
+C:\Users\local\Desktop\DSZ\12-13-2017\KolokwiumDSZ\KolokwiumDSZ\bin\Debug\KolokwiumDSZ.pdb
+C:\Users\local\Desktop\DSZ\12-13-2017\KolokwiumDSZ\KolokwiumDSZ\obj\Debug\KolokwiumDSZ.exe
+C:\Users\local\Desktop\DSZ\12-13-2017\KolokwiumDSZ\KolokwiumDSZ\obj\Debug\KolokwiumDSZ.pdb
